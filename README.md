@@ -39,6 +39,6 @@ This is a simple Message Board application built using Flask and Socket.IO. The 
 - **I was going to use Node.js and npm to make it a lot easier, but node.js wasn't updating/wasn't being recognized so i had to go the other route**
 - **In the future, I'd probably insert a couple pictures, a navbar (hamburger and all) with different chatrooms, and maybe some cooler features like randomly placing the messages**
 - **I have a css file that I don't use because I don't think my vscode recognized it as a css file, but for organization, I would typically separate css and html**
-- **I also usually use react, but this functionality was simple enough to just do HTML, go back to the roots**
+- **I also usually use react, but this functionality could have used HTML too so i did it that way**
 - **I tried deploying it on GitHub pages, it didn't work because the requirements, so ignore the docs folder in the other branch it was just a tester**
 
