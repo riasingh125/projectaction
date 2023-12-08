@@ -1,0 +1,35 @@
+body {
+    background: rebeccapurple !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+}
+h1 {
+    font-family: 'Jost', sans-serif;
+    font-style: normal;
+}
+.message-wrapper {
+    display: flex;
+    align-items: center;
+    width: 1000px;
+    height: 135px;
+    border: 1px solid #BF5813;
+    border-radius: 5px;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#message-input {
+    height: 100px;
+    width: 995px;
+    background: bisque;
+    font-family: 'Jokerman', cursive;
+    z-index: 2;
+}
+#post-button {
+    background: #cad2c1;
+    margin-bottom: 0px;
+}
