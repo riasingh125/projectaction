@@ -6,8 +6,8 @@ This is a simple Message Board application built using Flask and Socket.IO. The 
 ## Components and Interactions
 
 ### Backend (Flask)
-- **Flask App**: The main application is built using Flask, a web framework for Python.
-- **Socket.IO**: Socket.IO is used to enable real-time communication between the server and clients. It allows the server to push messages to connected clients instantly.
+- **Flask App**: The main application is built using Flask
+- **Socket.IO**: Socket.IO is used to enable real-time communication between the server and clients.
 
 ### Frontend (HTML, CSS, JavaScript)
 - **HTML Templates**: The application has a simple HTML structure with templates for rendering the message board and handling user input.
